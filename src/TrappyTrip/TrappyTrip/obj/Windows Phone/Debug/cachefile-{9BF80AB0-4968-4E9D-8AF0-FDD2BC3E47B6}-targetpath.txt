@@ -1,0 +1,4 @@
+Content\player_run.xnb
+Content\player_idle.xnb
+Content\tileset.xnb
+Content\DebugFont.xnb
